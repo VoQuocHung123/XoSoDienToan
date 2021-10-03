@@ -1,0 +1,10 @@
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\bin\Debug\XoSo_VoQuocHung.exe.config
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\bin\Debug\XoSo_VoQuocHung.exe
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\bin\Debug\XoSo_VoQuocHung.pdb
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.csproj.AssemblyReference.cache
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.Properties.Resources.resources
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.csproj.GenerateResource.cache
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.csproj.CoreCompileInputs.cache
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.exe
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.pdb
+D:\C#\XoSo_VoQuocHung\XoSo_VoQuocHung\obj\Debug\XoSo_VoQuocHung.frmQuocHung.resources
